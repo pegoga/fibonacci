@@ -16,7 +16,7 @@ THIS SOFTWARE IS PROVIDED BY <COPYRIGHT HOLDER> “AS IS” AND ANY EXPRESS OR I
 
 
 '''
-funetes
+fuentes
 https://www.udemy.com/course/python-programming-tutorial-for-the-absolute-beginner-code-included/learn/lecture/15989880#overview
 https://www.youtube.com/watch?v=rC7D39VuNyo&t=73s
 '''
